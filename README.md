@@ -50,6 +50,8 @@ npm run dev | yarn run dev
 
 Editor de código-fonte que inclui suporte para depuração, realce de sintaxe, complementação inteligente de código, snippets, entre outros.
 
+#### Extensões
+
 ##### [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 Utilizado para padronizar quebra de linha, indentação, espaços e tabs entre desenvolvedores de um mesmo projeto.
@@ -61,7 +63,6 @@ Utilizado para padronizar código entre desenvolvedores como utilização de pon
 ##### [Nunjucks for VS Code](https://marketplace.visualstudio.com/items?itemName=ronnidc.nunjucks)
 
 Utilizado para ter suporte à sintaxe .njk.
-
 
 #### Configurações
 
