@@ -7,7 +7,7 @@ API usando Node.js, Express e Nunjucks.
 - [Telas](#telas)
 
   - [Listagem](#listagem)
-  
+
   - [Novo](#novo)
 
 - [Desenvolvimento](#desenvolvimento)
@@ -15,7 +15,7 @@ API usando Node.js, Express e Nunjucks.
   - [Configurações Iniciais](#configurações-iniciais)
 
   - [Instalação do Projeto](#instalação-do-projeto)
-  
+
   - [Execução do Projeto](#execução-do-projeto)
 
   - [Bibliotecas](#bibliotecas)
@@ -25,11 +25,11 @@ API usando Node.js, Express e Nunjucks.
 ### Listagem
 
 ![Screenshoot Listagem](https://github.com/osvaldokalvaitir/node-modulo1/blob/master/screenshots/Listagem.png)
-É uma listagem de todos os usuários.
+É uma listagem de todos os usuários cadastrados.
 
 ### Novo
 
-![Screenshoot Listagem](https://github.com/osvaldokalvaitir/node-modulo1/blob/master/screenshots/Novo.png)
+![Screenshoot Novo](https://github.com/osvaldokalvaitir/node-modulo1/blob/master/screenshots/Novo.png)
 É a tela onde cadastram novos usuários.
 
 ## Desenvolvimento
