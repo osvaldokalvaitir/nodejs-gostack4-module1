@@ -1,6 +1,13 @@
 # Node - Módulo 1
 
-API usando Node.js, Express e Nunjucks.
+Aplicação usando Node.js, Express e Nunjucks.
+
+## Resumo
+
+Esta aplicação foi desenvolvida para realizar os seguintes procedimentos:
+
+- Lista todos os usuários
+- Adiciona novos usuários
 
 ## Índice
 
