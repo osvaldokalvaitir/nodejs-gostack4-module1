@@ -1,6 +1,6 @@
 # Node - Módulo 1
 
-API em usando Node.js, Express e Nunjucks.
+API usando Node.js, Express e Nunjucks.
 
 ## Índice
 
