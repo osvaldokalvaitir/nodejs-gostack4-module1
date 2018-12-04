@@ -24,12 +24,12 @@ API usando Node.js, Express e Nunjucks.
 
 ### Listagem
 
-![Screenshoot Listagem](https://github.com/osvaldokalvaitir/node-modulo1/blob/master/screenshots/Listagem.png)
+![Screenshoot List](https://github.com/osvaldokalvaitir/node-modulo1/blob/master/screenshots/List.png)
 É uma listagem de todos os usuários cadastrados.
 
 ### Novo
 
-![Screenshoot Novo](https://github.com/osvaldokalvaitir/node-modulo1/blob/master/screenshots/Novo.png)
+![Screenshoot New](https://github.com/osvaldokalvaitir/node-modulo1/blob/master/screenshots/New.png)
 É a tela onde cadastram novos usuários.
 
 ## Desenvolvimento
