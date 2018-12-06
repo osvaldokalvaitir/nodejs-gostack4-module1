@@ -1,6 +1,6 @@
 # Node - Módulo 1
 
-Aplicação usando Node.js, Express e Nunjucks.
+Aplicação usando Node.js, Express, Nunjucks, EditorConfig e ESLint.
 
 ## Resumo
 
