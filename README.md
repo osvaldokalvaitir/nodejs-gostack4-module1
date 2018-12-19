@@ -2,13 +2,6 @@
 
 Aplicação usando Node.js, Express, Nunjucks, EditorConfig e ESLint.
 
-## Resumo
-
-Esta aplicação foi desenvolvida para realizar os seguintes procedimentos:
-
-- Lista todos os usuários
-- Adiciona novos usuários
-
 ## Índice
 
 - [Telas](#telas)
@@ -16,6 +9,8 @@ Esta aplicação foi desenvolvida para realizar os seguintes procedimentos:
   - [Listagem](#listagem)
 
   - [Novo](#novo)
+  
+- [Rotas](#rotas)  
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -38,6 +33,11 @@ Esta aplicação foi desenvolvida para realizar os seguintes procedimentos:
 
 ![Screenshoot New](https://github.com/osvaldokalvaitir/node-modulo1/blob/master/screenshots/New.png)
 É a tela onde cadastram novos usuários.
+
+## Rotas
+
+- Lista todos os usuários
+- Adiciona novos usuários
 
 ## Desenvolvimento
 
