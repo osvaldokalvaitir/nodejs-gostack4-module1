@@ -1,4 +1,4 @@
-# Node - Módulo 1
+﻿# Node - Módulo 1
 
 Aplicação usando Node.js, Express, Nunjucks, EditorConfig e ESLint.
 
@@ -26,12 +26,12 @@ Aplicação usando Node.js, Express, Nunjucks, EditorConfig e ESLint.
 
 ### Listagem
 
-![Screenshoot List](https://github.com/osvaldokalvaitir/node-modulo1/blob/master/screenshots/List.png)
+![List](https://github.com/osvaldokalvaitir/node-modulo1/blob/master/assets/List.png)
 É uma listagem de todos os usuários cadastrados.
 
 ### Novo
 
-![Screenshoot New](https://github.com/osvaldokalvaitir/node-modulo1/blob/master/screenshots/New.png)
+![New](https://github.com/osvaldokalvaitir/node-modulo1/blob/master/assets/New.png)
 É a tela onde cadastram novos usuários.
 
 ## Rotas
