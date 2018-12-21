@@ -26,12 +26,12 @@ Aplicação usando Node.js, Express, Nunjucks, EditorConfig e ESLint.
 
 ### Listagem
 
-![List](https://github.com/osvaldokalvaitir/node-modulo1/blob/master/assets/List.png)
+![List](/assets/list.png)
 É uma listagem de todos os usuários cadastrados.
 
 ### Novo
 
-![New](https://github.com/osvaldokalvaitir/node-modulo1/blob/master/assets/New.png)
+![New](/assets/new.png)
 É a tela onde cadastram novos usuários.
 
 ## Rotas
