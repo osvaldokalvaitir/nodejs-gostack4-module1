@@ -19,8 +19,8 @@ Aplicação usando Node.js, Express, Nunjucks, EditorConfig e ESLint.
   - [Listagem](#listagem)
 
   - [Novo](#novo)
-  
-- [Rotas](#rotas)  
+
+- [Rotas](#rotas)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -46,8 +46,9 @@ Aplicação usando Node.js, Express, Nunjucks, EditorConfig e ESLint.
 
 ## Rotas
 
-- Lista todos os usuários
-- Adiciona novos usuários
+- Usuários
+  - Lista todos os usuários
+  - Adiciona novos usuários
 
 ## Desenvolvimento
 
