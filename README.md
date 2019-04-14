@@ -14,13 +14,11 @@ Aplicação usando Node.js, Express, Nunjucks, EditorConfig e ESLint.
 
 ## Índice
 
-- [Telas](#telas)
+- [Capturas de Tela](#capturas-de-tela)
 
   - [Listagem](#listagem)
 
   - [Novo](#novo)
-
-- [Rotas](#rotas)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -30,9 +28,13 @@ Aplicação usando Node.js, Express, Nunjucks, EditorConfig e ESLint.
 
   - [Execução do Projeto](#execução-do-projeto)
 
-  - [Bibliotecas](#bibliotecas)
+- [Utilizados no Projeto](#utilizados-no-projeto)
 
-## Telas
+  - [Bibliotecas](#bibliotecas)
+  
+  - [APIs](#apis)
+
+## Capturas de Tela
 
 ### Listagem
 
@@ -43,12 +45,6 @@ Aplicação usando Node.js, Express, Nunjucks, EditorConfig e ESLint.
 
 ![New](/assets/new.png)
 É a tela onde cadastram novos usuários.
-
-## Rotas
-
-- Usuários
-  - Lista todos os usuários
-  - Adiciona novos usuários
 
 ## Desenvolvimento
 
@@ -64,6 +60,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
 
+## Utilizados no Projeto
+
 ### Bibliotecas
 
 - [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
@@ -73,3 +71,14 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
 
 - [Nunjucks](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nunjucks.md)
+
+### APIs
+
+- #### Interna
+
+  - ##### Rotas
+
+    - Usuários
+
+      - Lista todos os usuários
+      - Adiciona novos usuários
