@@ -31,19 +31,19 @@ Aplicação usando Node.js, Express, Nunjucks, EditorConfig e ESLint.
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
-  
+
   - [APIs](#apis)
 
 ## Capturas de Tela
 
 ### Listagem
 
-![List](/assets/list.png)
+![List](/.github/assets/list.png)
 É uma listagem de todos os usuários cadastrados.
 
 ### Novo
 
-![New](/assets/new.png)
+![New](/.github/assets/new.png)
 É a tela onde cadastram novos usuários.
 
 ## Desenvolvimento
